@@ -1,7 +1,7 @@
 <p align="center"><img src="assets/zobou-logo.png" alt="Zobou" width="120"></p>
 
 <h1 align="center">Zobou</h1>
-<p align="center"><b>The trading journal that runs on your PC. Your data stays with you.</b></p>
+<p align="center"><b>Take back control of your data, profit from your discipline.</b></p>
 <p align="center"><a href="README.md">🇫🇷 Français</a> · 🇬🇧 English</p>
 
 ---
@@ -93,7 +93,6 @@ The key is tied to your computer and verified **offline**. No internet connectio
 ## Requirements
 
 - Windows 10 or 11 (64-bit)
-- No Python installation needed
 
 ## Pricing
 
