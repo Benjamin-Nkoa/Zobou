@@ -91,7 +91,6 @@ La clé est liée à ton ordinateur et vérifiée **hors ligne**. Aucune connexi
 ## Configuration requise
 
 - Windows 10 ou 11 (64 bits)
-- Aucune installation de Python nécessaire
 
 ## Tarification
 
