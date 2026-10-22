@@ -47,14 +47,15 @@ Zobou est un journal de trading pour Windows. Il enregistre tes trades, **appliq
 ## Ce que Zobou fait pour toi
 
 **Un money management qui s'applique vraiment**
-- Risque de base, 3 paliers de risque (descente après une série de SL, remontée selon le R cumulé), limites de perte par jour, semaine et mois.
-- Nombre de trades maximum par jour, exposition simultanée maximale, protection hebdomadaire (plancher glissant sur tes gains).
+- Protection des données : Tes stratégies tes performances, toutes tes données restent sur ton PC. Zobou est un logiciel qui fonctionne à 100% en local.
+- Suivi de la discipline : un score de discipline vous est attribué en fonction du pourcentage de trades respectant à 100% votre plan et votre money management. Une comparaison directement entre les performances des trades conformes et les trades non conformes permet de voir le coût de l'indiscipline.
 - Un bandeau permanent indique si le trading est **autorisé ou bloqué**, ton palier actuel et le risque maximal du prochain trade.
-- Chaque trade est évalué avec les règles en vigueur à sa date : l'historique n'est jamais réécrit.
+
 
 **Une vraie mesure de ta discipline**
 - Chaque trade reçoit la liste de ses écarts par rapport à tes règles.
 - Score de discipline indépendant du résultat, et comparaison du R moyen des trades conformes et non conformes.
+- Les revues hebdomadaires sont obligatoires, ce qui impose de réfléchir et tirer des leçons sur la semaine écoulée.
 
 **Un tableau de bord complet**
 - Courbe de performance interactive, solde, performance en R et en %, drawdown, winrate, profit factor, espérance.
