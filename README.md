@@ -1,7 +1,7 @@
 <p align="center"><img src="assets/zobou-logo.png" alt="Zobou" width="120"></p>
 
 <h1 align="center">Zobou</h1>
-<p align="center"><b>Reprends le controle sur tes donées, rentabilise la discipline.</b></p>
+<p align="center"><b>Reprends le contrôle sur tes données, rentabilise la discipline.</b></p>
 <p align="center">🇫🇷 Français · <a href="README.en.md">🇬🇧 English</a></p>
 
 ---
