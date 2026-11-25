@@ -1,0 +1,20 @@
+{
+  "_notes": "Fichier unique lu par index.html et commander.html. Modifie seulement les valeurs, garde les guillemets et les virgules. Après modification, recharge la page (Ctrl+F5 si besoin).",
+  "licences_vendues": 8,
+  "version_textes": "1.8 · 22/11/2026",
+  "contact": {
+    "email": "benjaminnkoa47@gmail.com",
+    "whatsapp": "237698639717",
+    "whatsapp_affichage": "+237 698 639 717"
+  },
+  "prix": {
+    "depart": 30,
+    "increment": 20,
+    "final": 490,
+    "ventes_par_palier": 10
+  },
+  "videos": {
+    "courte": "https://youtu.be/qMLuk-PwldU",
+    "longue": "https://youtu.be/T9Upj32Xodo"
+  }
+}
